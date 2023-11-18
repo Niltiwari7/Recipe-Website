@@ -24,7 +24,7 @@ const CreateListing = () => {
     non_veg: false,
     userRef: "",
   });
-  console.log(formData);
+
   const [imageUploadError, setImageUploadError] = useState(false);
   const [uploading, setUploading] = useState(false);
   const [error, setError] = useState(false);
