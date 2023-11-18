@@ -12,7 +12,7 @@ import {useNavigate} from 'react-router-dom';
 const CreateListing = () => {
   const navigate = useNavigate();
   const { currentUser } = useSelector((state) => state.user);
-  console.log(currentUser);
+  
   const [files, setFiles] = useState([]);
   const [formData, setFormData] = useState({
     imageUrls: [],
