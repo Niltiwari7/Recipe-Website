@@ -1,7 +1,7 @@
 # Recipe Adda
 
 Recipe Adda is a feature-rich recipe sharing platform that enhances the culinary journey for users. With personalized user accounts, a user-friendly interface, and a plethora of features, Recipe Adda is designed to make recipe management and sharing a delightful experience.
-## ScreenShot
+
 
 ## Table of Contents
 
