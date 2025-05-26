@@ -11,9 +11,8 @@ Recipe Adda is a feature-rich recipe sharing platform that enhances the culinary
 - [Recipe Management](#recipe-management)
 - [Search & Display](#search--display)
 - [Profiles & Responsiveness](#profiles--responsiveness)
-- [Admin Tools](#admin-tools)
-- [Optimization](#optimization)
-- [Notifications](#notifications)
+
+
 
 ## Features
 
@@ -37,17 +36,12 @@ Recipe Adda is a feature-rich recipe sharing platform that enhances the culinary
 - **User Profiles:** Create user profiles for efficient recipe management.
 - **Responsive Design:** Ensure optimal viewing experiences across various devices.
 
-### Admin Tools
 
-- **Efficient Admin Panel:** Develop an admin panel for user account management, recipe monitoring, and comment moderation.
 
-### Optimization
 
-- **Performance Optimization:** Implement techniques like lazy loading for images to ensure a smooth user experience.
 
-### Notifications
-
-- **Real-time Updates:** Integrate a notification system for real-time updates on recipe interactions, enhancing user engagement.
+## Website Architecture
+![image](https://github.com/user-attachments/assets/416cded6-db45-4846-b1a8-d9d00f4b9d61)
 
 ## Getting Started
 
